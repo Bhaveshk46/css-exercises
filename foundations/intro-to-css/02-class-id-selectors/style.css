@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.Odd{
+    background-color: hsl(0, 38%, 69%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one{
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+#two{
+    background-color:rgb(125, 205, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
+.extra{
+    font-size: 24px;
+}
